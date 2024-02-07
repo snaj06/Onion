@@ -12,5 +12,3 @@ slug: /emulators/neogeocd
 - Bios: (`000-lo.lo` or `ng-lo.rom`) and (`neocd_f.rom` or `neocd.bin` or `uni-bioscd.rom`) placed in a folder named neocd within the bios folder
 
 UniBIOS can be used but v4.0 can lead to missing or corrupted audio when used with save states. Earlier UniBIOS version are OK.  
-
-Because Neo Geo roms can come in different formats (split or non-merged), it's recommended to keep the 'neogeo.zip' bios in both the `/BIOS` folder and the `/Roms/NEOGEO` folder to ensure best compatibility.
